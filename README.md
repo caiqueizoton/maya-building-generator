@@ -19,7 +19,7 @@ The key aspect of developing this script was to create code that offers flexibil
 ## Dependencies
 
 - **Autodesk Maya**: The script requires Autodesk Maya with Python support. The project was developed using Maya 2023, but it should be compatible with other versions that support Python scripting.
-- **`maya.cmds` Module**: The script uses the `maya.cmds` module, which is part of Maya’s Python API.
+- **`maya.cmds` Module**: The script uses the `maya.cmds` module.
 
 ## Installation
 
